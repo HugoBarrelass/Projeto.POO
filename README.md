@@ -30,15 +30,6 @@ Abrir a pasta `ProjetoPOO` no IntelliJ IDEA e executar o ficheiro:
 
 `src/main/java/pt/poo/towerdefense/App.java`
 
-### Executar os testes unitários
-
-```bash
-cd ProjetoPOO
-mvn test
-```
-
----
-
 ## 📁 Estrutura
 
 - `ProjetoPOO/` — código fonte Java/JavaFX e testes JUnit.
