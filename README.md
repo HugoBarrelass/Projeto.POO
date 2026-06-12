@@ -26,16 +26,9 @@
 
 ### Executar o jogo
 
-```bash
-cd ProjetoPOO
-mvn clean javafx:run
-```
+Abrir a pasta `ProjetoPOO` no IntelliJ IDEA e executar o ficheiro:
 
-Em alternativa, abrir a pasta `ProjetoPOO` no IntelliJ IDEA e executar a classe:
-
-```text
-pt.poo.towerdefense.App
-```
+`src/main/java/pt/poo/towerdefense/App.java`
 
 ### Executar os testes unitários
 
