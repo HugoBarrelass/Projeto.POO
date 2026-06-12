@@ -1,0 +1,8 @@
+.idea/
+target/
+**/target/
+scores.txt
+docs/relatorio.html
+docs/relatorio.pdf
+*.class
+*.log
